@@ -69,7 +69,7 @@ data:extend({
     icon_mipmaps = 4,
     fuel_category = "vehicle-fuel",
     fuel_value = "15MJ",
-    fuel_emissions_multiplier = 0.6,
+    fuel_emissions_multiplier = 0.75,
     fuel_acceleration_multiplier = 1.05,
     fuel_top_speed_multiplier = 1.15,
     subgroup = "raw-material",
